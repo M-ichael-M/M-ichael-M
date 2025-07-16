@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @M-ichael-M
-- 👀 I’m interested in Machine Learning and Android Development
-- 🌱 I’m currently learning Android Jetpack Compose and Image Processing in ML
+- 👀 I’m interested in Machine Learning, Android Development and Web Development
+- 🌱 I am currently deepening my knowledge in my areas of interest
 - 📫 How to reach me: email: michalmaleczek@gmail.com
